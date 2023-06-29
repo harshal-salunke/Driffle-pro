@@ -1,0 +1,49 @@
+.ui-cart-notification {
+  height: 40px;
+  width: 40px;
+}
+
+.ui-cart-notification .overlap-group {
+  height: 33px;
+  left: 8px;
+  position: relative;
+  top: -1px;
+  width: 33px;
+}
+
+.ui-cart-notification .group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/257ab4f37ea366bbcf49f1ba14d2ba47/img/store-24.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 24px;
+}
+
+.ui-cart-notification .rectangle {
+  background-color: #535ce8;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 14px;
+  height: 18px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.ui-cart-notification .element {
+  color: #ffffff;
+  font-family: "Roobert-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 8px;
+}

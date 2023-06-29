@@ -1,0 +1,1 @@
+export { UiFavoriteDefault } from "./UiFavoriteDefault";

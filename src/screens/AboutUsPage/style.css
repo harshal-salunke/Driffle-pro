@@ -1,0 +1,191 @@
+.about-us-page {
+  background-color: #0b0b0b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-us-page .div {
+  background-color: #0b0b0b;
+  border: 1px none;
+  height: 1000px;
+  position: relative;
+  width: 1728px;
+}
+
+.about-us-page .overlap {
+  height: 944px;
+  left: 380px;
+  position: absolute;
+  top: -14px;
+  width: 972px;
+}
+
+.about-us-page .ellipse-2 {
+  background: linear-gradient(180deg, rgba(32.6, 82.67, 211.44, 0.4) 0%, rgba(39.03, 103.04, 123.25, 0.4) 100%);
+  border-radius: 472px/284px;
+  filter: blur(240px);
+  height: 568px;
+  left: 12px;
+  position: absolute;
+  top: 186px;
+  width: 944px;
+}
+
+.about-us-page .ellipse-3 {
+  border: 1px dashed;
+  border-color: #ffffff1a;
+  border-radius: 472px;
+  height: 944px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 944px;
+}
+
+.about-us-page .ellipse-4 {
+  border: 1px dashed;
+  border-color: #ffffff33;
+  border-radius: 232px;
+  height: 464px;
+  left: 252px;
+  position: absolute;
+  top: 240px;
+  width: 464px;
+}
+
+.about-us-page .ellipse-5 {
+  border: 1px dashed;
+  border-color: #ffffff26;
+  border-radius: 343px;
+  height: 686px;
+  left: 141px;
+  position: absolute;
+  top: 129px;
+  width: 686px;
+}
+
+.about-us-page .rectangle-2 {
+  background-color: #faff35;
+  border-radius: 8px;
+  height: 40px;
+  left: 289px;
+  position: absolute;
+  top: 159px;
+  width: 40px;
+}
+
+.about-us-page .img {
+  height: 22px;
+  left: 290px;
+  position: absolute;
+  top: 168px;
+  width: 38px;
+}
+
+.about-us-page .rectangle-3 {
+  height: 40px;
+  left: 932px;
+  position: absolute;
+  top: 363px;
+  width: 40px;
+}
+
+.about-us-page .rectangle-4 {
+  height: 40px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 775px;
+  width: 40px;
+}
+
+.about-us-page .rectangle-5 {
+  height: 40px;
+  left: 753px;
+  position: absolute;
+  top: 828px;
+  width: 40px;
+}
+
+.about-us-page .rectangle-6 {
+  background-color: #2e2e2e;
+  border: 1px solid;
+  border-color: #3f3f3f;
+  border-radius: 8px;
+  height: 42px;
+  left: 597px;
+  position: absolute;
+  top: 269px;
+  width: 42px;
+}
+
+.about-us-page .rectangle-7 {
+  height: 33px;
+  left: 603px;
+  position: absolute;
+  top: 274px;
+  width: 33px;
+}
+
+.about-us-page .rectangle-8 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 363px;
+  width: 40px;
+}
+
+.about-us-page .driffle-is-a-one {
+  color: transparent;
+  font-family: "Roobert-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  text-align: center;
+  top: 362px;
+  width: 815px;
+}
+
+.about-us-page .text-wrapper {
+  color: #ffffff;
+}
+
+.about-us-page .span {
+  color: #5df5b5;
+}
+
+.about-us-page .text-wrapper-2 {
+  color: #ffffff;
+}
+
+.about-us-page .not-only-do-we-sell {
+  color: #9f9f9f;
+  font-family: "Roobert-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 528px;
+  width: 815px;
+}
+
+.about-us-page .group-2 {
+  -webkit-backdrop-filter: blur(90px) brightness(100%);
+  backdrop-filter: blur(90px) brightness(100%);
+  background-color: #202020b2;
+  border: 1px solid;
+  border-color: #ffffff12;
+  height: 73px;
+  left: 0;
+  position: fixed;
+  top: -1px;
+  width: 1728px;
+}

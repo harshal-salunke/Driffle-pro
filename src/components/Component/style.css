@@ -1,0 +1,35 @@
+.component {
+  border-radius: 24px;
+  height: 48px;
+  position: relative;
+  width: 178px;
+}
+
+.component .visit-our-store {
+  color: #ffffff;
+  font-family: "Roobert-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.32px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.component.group-3649 {
+  background-color: #6a6a6a4c;
+}
+
+.component.group-3648 {
+  background-color: #4444444c;
+}
+
+.component.group-3649 .visit-our-store {
+  left: 22px;
+}
+
+.component.group-3648 .visit-our-store {
+  left: 36px;
+}
